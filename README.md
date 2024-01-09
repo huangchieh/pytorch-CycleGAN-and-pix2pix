@@ -2,6 +2,7 @@
 <img src='imgs/horse2zebra.gif' align="right" width=384>
 
 <br><br><br>
+Notice: This is a fork version of CycleGAN that is used in AFM-Augmentation.
 
 # CycleGAN and pix2pix in PyTorch
 
